@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { ShieldCheck, Leaf, Truck, Headset, SlidersHorizontal, ChevronDown, ChevronRight } from 'lucide-react'
 
 const baseProducts = [
